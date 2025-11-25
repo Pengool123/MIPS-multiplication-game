@@ -5,7 +5,7 @@ The one and only bug is when running at full speed, the variable determining who
 At any other speed it works fully fine
 
 # How to play<br>
-![start](start.png)
+![start](start.png)<br>
 ![after 1 move](move.png)
 - 2 pivots are present and a row of numbers from 1-9
 - The computer goes first
@@ -14,5 +14,5 @@ At any other speed it works fully fine
 ![win](win.png)
 
 ## bonus
-Both the computer and user cannot input an invalid move
+Both the computer and user cannot input an invalid move<br>
 ![invalid move](invalid.png)
